@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Programowanie Portali Biznesowych
 
-Things you may want to cover:
+### Projekt CRUD napisany przy pomocy Ruby on Rails
 
-* Ruby version
+Aplikacja posiada model użytkownika zawierający `imię`, `wiek` oraz `email`. 
 
-* System dependencies
+#### Create
+<img src="https://imgur.com/he3VCcZ.jpg">
 
-* Configuration
 
-* Database creation
+#### Read
+<img src="https://imgur.com/QHKvNnt.jpg">
 
-* Database initialization
 
-* How to run the test suite
+#### Update
+<img src="https://imgur.com/cyNaBh6.jpg">
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
+#### Delete
+<img src="https://imgur.com/r0Zo1hN.jpg">
+<img src="https://imgur.com/0qLtx78.jpg">
