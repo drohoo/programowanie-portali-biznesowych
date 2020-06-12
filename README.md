@@ -2,9 +2,27 @@
 
 ## Programowanie Portali Biznesowych
 
-### Projekt CRUD napisany przy pomocy Ruby on Rails
+### Projekt CRUD
 
-Aplikacja posiada model użytkownika zawierający `imię`, `wiek` oraz `email`. 
+#### Opis
+
+Aplikacja zbiera dane użytkowników tj. `imię`, `wiek` oraz `email`. Pozwala również na edycje oraz usuwanie użytkowników z bazy.
+
+
+#### Technologie
+
+- Ruby on Rails
+- MySQL
+
+#### Model użytkownika
+
+{
+    "user": {
+        "imie": "Janusz",
+        "wiek": 25,
+        "email": "janusz@email.com"
+    }
+}
 
 #### Create
 <img src="https://imgur.com/he3VCcZ.jpg">
